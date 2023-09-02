@@ -10176,3 +10176,7 @@ body:not(.tt-boxed) .tt-footer-inner,
 	-webkit-text-fill-color: transparent;
 	white-space: nowrap;
   }
+
+  img {
+	pointer-events: none !important;
+  }
